@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @nata0ku
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Nataasha Okumura 👋
 
-<!---
-nata0ku/nata0ku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+- 🎓 Major: Cloud Engineering at Asia Pacific University (APU)
+- 🌏 International Experience: Lived in Indonesia for 5 years and currently studied abroad in Malaysia
+- 💼 Currently: Online eSports English conversation instructor
+- 🚀 Skills: Negotiation, Communication, Presentation
+- 📚 Hobbies: Hiking, Rock Climbing, Solo Travel, Reading, Cooking, Gym
+
+## My Projects
+
+- [Project 1](https://nata0ku.github.io/W2codemy_hp/): homepage of W2codemy
+- [Project 2](https://github.com/username/project2): Description of project 2
+
+## Contact
+
+- 📫 [Email](natako0311@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/natasha0311)
